@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\GitHub\UnitTest-handout\LAB08 UnitTest3\LAB08 UnitTest3\obj\Debug\LAB08 UnitTest3.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\UnitTest-handout\LAB08 UnitTest3\LAB08 UnitTest3\obj\Debug\LAB08 UnitTest3.csproj.CoreCompileInputs.cache

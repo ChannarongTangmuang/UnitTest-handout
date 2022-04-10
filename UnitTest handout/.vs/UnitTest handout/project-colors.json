@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e3d5028-20c3-40aa-a945-997f52a2d537": {
+      "ProjectGuid": "1e3d5028-20c3-40aa-a945-997f52a2d537",
+      "DisplayName": "UnitTest handout",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
